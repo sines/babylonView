@@ -1,0 +1,27 @@
+{
+	"lastOpenedScene": "projects/scene/scene.editorproject",
+	"serverPort": 1338,
+	"generateSceneOnSave": true,
+	"firstLoad": false,
+	"watchProject": true,
+	"https": {
+		"enabled": false
+	},
+	"ktx2CompressedTextures": {
+		"forcedFormat": "automatic",
+		"astcOptions": {
+			"quality": "astcveryfast"
+		},
+		"pvrtcOptions": {
+			"quality": "pvrtcfastest"
+		},
+		"ect1Options": {
+			"enabled": false,
+			"quality": "etcfast"
+		},
+		"ect2Options": {
+			"enabled": false,
+			"quality": "etcfast"
+		}
+	}
+}
